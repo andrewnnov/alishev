@@ -1,0 +1,11 @@
+public class MainClass {
+
+    public static void main(String[] args) {
+        int x = 5;
+        String s = "Hello";
+        String space = " ";
+        String name = "Cat";
+
+        System.out.println(s + space + name);
+    }
+}
